@@ -20,6 +20,10 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
     
 ### Setup
+1. Clone repository: 
+```sh
+  $ git clone https://github.com/Achilles-Dev/hello-microverse.git
+```
 
 ### Install
 
